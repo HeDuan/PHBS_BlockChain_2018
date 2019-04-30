@@ -104,6 +104,8 @@ In terms of policy, the development of compliance will be a short-and medium-ter
 
 ## References
 1.Firecoin Block Chain Research Institute. (2019). Annual Report on Global Block Chain Industry Panorama and Trends
-2. Viking Capital. (2019). Research Report on Block Chain 2018
-3. Google trend search and Coin Market Cap
+
+2.Viking Capital. (2019). Research Report on Block Chain 2018
+
+3.Google trend search and Coin Market Cap
 
