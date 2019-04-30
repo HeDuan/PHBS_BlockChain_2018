@@ -6,18 +6,21 @@
 ## 1.1. Market value and trading volume have declined sharply
 In 2017, the digital asset market experienced an explosive growth, with its total market value soaring from $17.74 billion at the beginning of the year to $559.76 billion at the end of the year, a 30-fold increase that exceeded the return of any other asset class. However, after entering 2018, the digital asset market has turned around and prices have retreated dramatically. As of December 31, the market value is about 130 billion US dollars, and the overall market has shrunk by more than 80% this year.
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/1.png)
+![Global market value](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/1.png)
+
 *Figure 1: Global market value trend of digital assets in 2018 (unit: US dollar)
 *Sourse: Coin Market Cap
 
 In addition to February, April and July, the market value of digital assets continued to decline for the rest of 2018. In April this year, stimulated by several DPO consensus projects (such as EOS and TRX) competing to open super-node elections, the digital asset market ushered in a wave of small markets, and some digital asset prices rose rapidly. In July, driven by a series of hot spots in DAPP applications dominated by transaction mining and FOMO3D, the market also showed a distinct small market.
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/2.png)
+![Total market capitalization](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/2.png)
+
 *Figure 2: Percentage of total market capitalization (Dominance)
 *Sourse: Coin Market Cap
 
 As for the percentage of total market capitalization, bitcoin accounted for larger part, which indicates investors’ preference and trust.
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/3.png)
+![Trading Volume](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/3.png)
+
 *Figure 3: Changes in 24h Global Digital Assets Trading Volume 
 *Sourse: Coin Market Cap
 
