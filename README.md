@@ -12,6 +12,7 @@ In 2017, the digital asset market experienced an explosive growth, with its tota
 *Sourse: Coin Market Cap
 
 In addition to February, April and July, the market value of digital assets continued to decline for the rest of 2018. In April this year, stimulated by several DPO consensus projects (such as EOS and TRX) competing to open super-node elections, the digital asset market ushered in a wave of small markets, and some digital asset prices rose rapidly. In July, driven by a series of hot spots in DAPP applications dominated by transaction mining and FOMO3D, the market also showed a distinct small market.
+
 ![Total market capitalization](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/2.png)
 
 *Figure 2: Percentage of total market capitalization (Dominance)
@@ -29,7 +30,8 @@ In 2018, the 24H trading volume of global digital assets peaked on January 4 ($7
 ## 1.2. The depression of Primary Market Financing
 Emerging digital assets broke out in 2017, and related financing amount increased rapidly, reaching a new high in 2018. According to ICO Rating data, there are 2243 projects in the primary market in 2018, totaling more than 11.6 billion US dollars. The number of projects increased by 200% and the amount of financing increased by 94%.       
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/4.png)
+![Monthly Financing Amount](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/4.png)
+
 *Figure 4: Monthly Financing Amount in 2018 
 *Sourse: ICO Rating
 
@@ -37,7 +39,8 @@ However, the amount of crowdsourcing for digital assets doubled in 2018, which i
           
 In March 2018, the fund-raising reached a small peak, reaching its peak in May; in the second half of the year, the amount of fund-raising in the six months was below the annual average, showing a weak state as a whole; and the trend continued until the end of 2018, reaching its lowest point in November and December.    
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/5.png)
+![Numbers of Monthly Financing](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/5.png)
+
 *Figure 5: Numbers of Monthly Financing Project in 2018 
 *Sourse: ICO Rating
 
@@ -46,7 +49,8 @@ ICOs were launched in April, May and June of 2018, and by 11/31 of 2018, a total
 Successful completion of financing projects in the first five months maintained at about 50%; from the second half of 2008, the average monthly completion of financing projects accounted for a gradual decline in the proportion of financing projects, reaching a record low at the end of November, with only 26% successful completion of financing projects. Quarterly, the four quarterly percentages are 54%, 46%, 36% and 29% (excluding December data).
 
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/6.png)
+![Distribution of Digital Asset Financing Projects](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/6.png)
+
 *Figure 6: Distribution of Digital Asset Financing Projects in the past two years 
 *Sourse: ICO Watchlist
 
@@ -55,13 +59,15 @@ According to ICO Watchlist data, in 2018, crowdsourcing projects of digital asse
 ## 1.3. Investor sentiment has also declined
 In addition to the sharp decline in trading volume, the spirit of investors in the digital asset market has also declined sharply, as can be seen from the Google trend of hot words search, the topic of digital assets is getting less heated.              
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/7.png)
+![Google trend](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/7.png)
+
 *Figure 7: Google trend of Digital Asset Related Search Index
 *Sourse: Google
 
 However, from an investor sentiment, the market is still looking forward to the first half of 2019. After entering 2018, the digital asset market has shown a downward trend, but the market is still full of hope for 2019.
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/8.png)
+![Investor Market Expectations](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/8.png)
+
 *Figure 8: Investor Market Expectations - Medium Term 
 *Sourse: Firecoin Block Chain Research Institute
 
@@ -72,7 +78,8 @@ According to Firecoin Block Chain Research Institute's monthly survey of global 
 
 It has been more than ten years since the birth of Bitcoin, and the development of technology has brought about social progress. Block chain technology is considered as the infrastructure of the next generation of Internet. Common economy brings multi-dimensional measure of value. Consensus mechanism brings about changes in production relations. It brings information Internet into the value Internet and generates a number of projects with epochal significance, such as community public chain ETH. EOS, anonymous network DASH, de-centralized content platform Steemit, de-centralized cloud storage SC, super computing GNT, the achievements and significance of these community-based projects are unique and important. However, as an important part of block chain technology, digital currency brings the stigma of block chain technology: the development of ICO brings speculation, follow the trend and speculation; the result of capital influx is project fraud, investment on behalf of the road and leek cutting; the emergence of new technology brings stack block engineering, project circle money and overwhelming prices.   
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/9.png)
+![Global market value](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/9.png)
+
 *Figure 9: Global market value trend of digital assets (unit: US dollar) Changes in 24h Global Digital Assets Trading Volume in the past five years
 *Sourse: Coin Market Cap
 
@@ -83,7 +90,8 @@ Discussions on these issues go beyond the technical issues themselves, but they 
 ## 2.2. Prospect of Digital Currency Capital Market in the future
 In technology, block chain technology will be oriented to the problems that can be solved at present. With most of the main public chain networks on line, DApps will be given more diversified choices and further promote the development of industrial applications. SDK developer tools and underlying development platforms will gradually mature, including Internet giants and innovative enterprises will benefit from the improvement of infrastructure. In the field of privacy technology, with the development of encryption community and the gradual popularization of distributed network, it is expected that there will be more diversified innovations than in 2018. In addition, community discussions on consensus mechanism, protocol layer, DApps, Layer 1 and Layer 2 will continue. 
 
-(https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/10.png)
+![Block Chain Application ](https://github.com/HeDuan/PHBS_BlockChain_2018/blob/master/10.png)
+
 *Figure 10: Prospect of Block Chain Application  
 *Sourse: CBInsights、Viking Capital
 
